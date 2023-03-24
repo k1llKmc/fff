@@ -177,3 +177,114 @@ header{
     top: 1062px;
     left: 1048px;
 }
+.third-s{
+    width: 1440px;
+    height: 970px;
+    background-color: #FFB480;
+    background-image: url("../images/Group.png");
+    background-size: 1439.3px  969.51px;
+}.t-s-inf{
+    display: flex;
+    flex-direction: row;
+    margin-top: 128px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.t-s-txt{
+    display: flex;
+    flex-direction: column;
+}
+.t-s-title{
+    width: 420px;
+    margin-top: -21px;
+    margin-left: 84px;
+    font-family: roboto;
+    font-size: 85px;
+    font-weight: 900;
+}
+.t-s-undertitle{
+    margin-top: 43px;
+    margin-left: 84px;
+    width: 406px;
+    font-family: roboto;
+    font-size: 32px;
+    font-weight: 400;
+}
+.t-s-button{
+    margin-top: 40px;
+    margin-left: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 48px;
+    background-color: #4B50FA;
+    border-radius: 24px;
+}
+.t-s-b-t{
+    display: inline-block;
+    font-family: roboto;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.t-s-imgs{
+    display: flex;
+    flex-direction: row;
+}
+.t-s-f{
+    width: 346px;
+    height: 480px;
+    margin-left: 112px;
+    margin-top: 0px;
+}
+.t-s-s{
+    width: 346px;
+    height: 480px;
+    margin-left: 37px;
+    margin-top: 0px;
+}
+.fourth-s{
+    width: 1440px;
+    height: 904px;
+    background-color: #FFFFFF;
+    background-image: url("../images/Rectangle\ fourth\ section.png");
+}
+.fo-s-txt{
+    display: flex;
+    flex-direction: column;
+}
+.fo-s-t{
+    width: 587px;
+    margin-top: 56px;
+    margin-left: 140px;
+    font-family: roboto;
+    font-weight: 900;
+    font-size: 87px;
+}
+.fo-s-ut{
+    width: 395px;
+    margin-top: 14px;
+    margin-left: 140px;
+    font-family: roboto;
+    font-weight: 400;
+    font-size: 32px;
+}
+.fo-s-button{
+    margin-top: 40px;
+    margin-left: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 48px;
+    background-color: #4B50FA;
+    border-radius: 24px;
+}
+.fo-s-b-t{
+    display: inline-block;
+    font-family: roboto;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
