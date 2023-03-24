@@ -139,10 +139,41 @@ header{
     text-decoration: underline;
 }
 .second-s{
+    display: flex;
+    flex-direction: row;
     width: 1440px;
-    height: 1196px;
+    height: 1096px;
     background-color: #F5F5F5;
     background-image: url("../images/RA_OwlLabs_WidescreenGIF_panning_v1\ 1.png");
     background-position: 60px 130px;
     background-repeat: no-repeat;
+}
+.s-s-text{
+    display: flex;
+    flex-direction: column;
+}
+.s-s-title{
+    margin-top: 636px;
+    margin-left: 144px;
+    width: 452px;
+    font-family: roboto;
+    font-size: 83px;
+    font-weight: 900;
+}
+.s-s-undertitile{
+    margin-top: 23px;
+    margin-left: 144px;
+    width: 466px;
+    font-family: roboto;
+    font-size: 32px;
+    font-weight: 400;
+}
+.s-s-img-1{
+    margin-left: 344px;
+    margin-top: 406px;
+}
+.s-s-img-2{
+    position: absolute;
+    top: 1062px;
+    left: 1048px;
 }
