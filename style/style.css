@@ -577,3 +577,20 @@ header{
     font-weight: 700;
     width: 194px;
 }
+
+
+.seventh-s{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 542px;
+    background-color: #F5F5F5;
+}
+.se-s-t{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 47px;
+    margin-bottom: 38px;
+}
